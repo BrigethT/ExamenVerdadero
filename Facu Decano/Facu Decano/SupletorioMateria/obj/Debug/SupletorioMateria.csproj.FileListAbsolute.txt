@@ -1,0 +1,11 @@
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\bin\Debug\SupletorioMateria.exe.config
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\bin\Debug\SupletorioMateria.exe
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\bin\Debug\SupletorioMateria.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.csproj.AssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.Form1.resources
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.Properties.Resources.resources
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.csproj.GenerateResource.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.exe
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\SupletorioMateria\obj\Debug\SupletorioMateria.pdb

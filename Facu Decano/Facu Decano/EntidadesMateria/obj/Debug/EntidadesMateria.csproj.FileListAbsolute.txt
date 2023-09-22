@@ -1,0 +1,6 @@
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\bin\Debug\EntidadesMateria.dll
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\bin\Debug\EntidadesMateria.pdb
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\obj\Debug\EntidadesMateria.csproj.AssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\obj\Debug\EntidadesMateria.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\obj\Debug\EntidadesMateria.dll
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Supletorio Login - copia\Materia\EntidadesMateria\obj\Debug\EntidadesMateria.pdb
